@@ -29,6 +29,11 @@ public class AudioManager : MonoBehaviour
         }
     }
 
+    void Start()
+    {
+        Play("BG Music");
+    }
+
     public void Play(string name)
     /*
         This function plays the sound of the given name regardless of category.
