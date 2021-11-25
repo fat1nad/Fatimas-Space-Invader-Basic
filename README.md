@@ -6,6 +6,7 @@ My own vibrant version of a Space Invader like game for the web.
 [Click To Play](https://fat1nad.github.io/Fatimas-Space-Invader-Basic/)
 
 ## Attributions
+(This part is in process, like, right now. But I am hungry and dinner comes first.)
 
 ## Software Versions
 
