@@ -1,6 +1,6 @@
 # Fatima's Space Invader
 
-My own vibrant version of a Space Invader like game for web.
+My own vibrant version of a Space Invader like game for the web.
 
 ## How To Run
 [Click To Play](https://fat1nad.github.io/Fatimas-Space-Invader-Basic/)
