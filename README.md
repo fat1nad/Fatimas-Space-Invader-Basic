@@ -14,7 +14,7 @@ My own vibrant version of a Space Invader like game for the web.
 
 Background music: 'Prism' by  Bobby Richards from Youtube Audio Library
 
-[Laser beam sound](https://www.epidemicsound.com/track/Z6kiWkPQ48/)
+[Laser beam sound from Epidemic Sound](https://www.epidemicsound.com/track/Z6kiWkPQ48/)
 
 [Player ship collision sound from Epidemic Sound](https://www.epidemicsound.com/track/EAtOW0yZ0M/)
 
