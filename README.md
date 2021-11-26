@@ -1,4 +1,4 @@
-# Fatima's Space Invader
+# Fatima's Space Invader Basic
 
 My own vibrant version of a *Space Invaders* like game for the web.
 
