@@ -22,6 +22,8 @@ Background music: 'Prism' by  Bobby Richards from Youtube Audio Library
 
 [Player ship collision sound from Epidemic Sound](https://www.epidemicsound.com/track/EAtOW0yZ0M/)
 
+The rest is self-created/designed
+
 ## Software Versions
 
 	Unity 2019.4.19f1 (LTS)
