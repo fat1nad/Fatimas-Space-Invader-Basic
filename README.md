@@ -2,6 +2,11 @@
 
 A vibrant version of a *Space Invaders* like game.
 
+## Instructions
+
+Mouse movement to move the spaceship in horizontal axis.
+Left mouse button to shoot and Right mouse button to pause.
+
 ## [Click To Play](https://fat1nad.github.io/Fatimas-Space-Invader-Basic/)
 
 ## Attributions
