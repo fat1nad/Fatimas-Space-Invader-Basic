@@ -1,9 +1,8 @@
 # Fatima's Space Invader Basic
 
-My own vibrant version of a *Space Invaders* like game for the web.
+A vibrant version of a *Space Invaders* like game.
 
-## How To Run
-[Click To Play](https://fat1nad.github.io/Fatimas-Space-Invader-Basic/)
+## [Click To Play](https://fat1nad.github.io/Fatimas-Space-Invader-Basic/)
 
 ## Attributions
 [Space Shooter Redux art pack by Kenney Vleugels](https://www.kenney.nl/assets/space-shooter-redux)
