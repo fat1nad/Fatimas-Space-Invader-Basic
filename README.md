@@ -2,6 +2,11 @@
 
 A vibrant version of a *Space Invaders* like game.
 
+## Instructions
+
+Mouse movement to move the spaceship in horizontal axis.
+Left mouse button to shoot and Right mouse button to pause.
+
 ## [Click To Play](https://fat1nad.github.io/Fatimas-Space-Invader-Basic/)
 
 ## Attributions
@@ -16,6 +21,8 @@ Background music: 'Prism' by  Bobby Richards from Youtube Audio Library
 [Laser beam sound from Epidemic Sound](https://www.epidemicsound.com/track/Z6kiWkPQ48/)
 
 [Player ship collision sound from Epidemic Sound](https://www.epidemicsound.com/track/EAtOW0yZ0M/)
+
+The rest is self-created/designed
 
 ## Software Versions
 
