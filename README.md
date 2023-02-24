@@ -1,6 +1,6 @@
 # Fatima's Space Invader Basic
 
-A vibrant version of a *Space Invaders* like game.
+A vibrant space shooter.
 
 ## Instructions
 
